@@ -12,3 +12,5 @@ SELECT
     create_date AS [Created]
 FROM sys.databases
 ORDER BY name;
+
+SELECT * FROM [AdventureWorks2022]
